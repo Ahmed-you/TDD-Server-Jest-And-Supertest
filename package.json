@@ -1,0 +1,23 @@
+{
+  "name": "tdd-server-jest-and-supertest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ahmed-you/TDD-Server-Jest-And-Supertest.git"
+  },
+  "author": "Ahmed Younis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ahmed-you/TDD-Server-Jest-And-Supertest/issues"
+  },
+  "homepage": "https://github.com/Ahmed-you/TDD-Server-Jest-And-Supertest#readme",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.0.0"
+  }
+}
